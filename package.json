@@ -46,5 +46,13 @@
     "redis": "^3.0.2",
     "serve-favicon": "^2.5.0",
     "underscore": "^1.9.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JackFu155/DomoMaker-B-Start.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JackFu155/DomoMaker-B-Start/issues"
+  },
+  "homepage": "https://github.com/JackFu155/DomoMaker-B-Start#readme"
 }
